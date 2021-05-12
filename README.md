@@ -5,9 +5,11 @@ Sexeca Is a Bot/Exploit to get the answers on assignments and work on senecalear
 
 ## Installation
 (Currently Windows Exclusive) 
-There are two methods of download,
+There are three methods of download,
 
-Either Clone the repo using git:
+Download the unstable version by Clicking the button that says "Code" At the top of the page, and clicking download zip.
+
+Clone the repo using git:
 ```
 $ git clone https://github.com/JasonDerulo1259/Sexeca-FreeVersion/releases
 ```
