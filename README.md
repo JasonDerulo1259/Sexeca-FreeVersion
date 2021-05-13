@@ -3,6 +3,8 @@
 
 Sexeca Is a Bot/Exploit to get the answers on assignments and work on senecalearning.com
 
+**Warning: This Program Was Designed For Educational And Testing Purposes Only. If you use it maliciously or otherwise unacceptably, I will not be held accountable. If you have any legal repercussions from the use of the code or the program, that is your fault entirely and I am not to blame. Furthermore, If anyone wants this program removed, shut down, or anything similar, then please get in contact first and we can discuss it.**
+
 ## Installation
 (Currently Windows Exclusive) 
 There are three methods of download,
