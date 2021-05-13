@@ -1,5 +1,6 @@
 
 # Sexeca
+![Sexeca Banner](https://i.imgur.com/jBlQd4A.png)
 
 Sexeca Is a Bot/Exploit to get the answers on assignments and work on senecalearning.com
 
