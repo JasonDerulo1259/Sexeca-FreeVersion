@@ -55,12 +55,12 @@ Alright, so as of right now - the first release - the paid version has not yet b
 
 |Free version:  |  Paid Version:|
 |--|--|
-| Batch Processing - ? | Batch Processing - ? |
-| Automatically inputs answers - ? | Automatically inputs answers - ? |
-| Scheduled Running - ? | Scheduled Running - ? |
-| User Interface - ? | User Interface - ? |
-| (in the future) Error handling - ? | Error handling on release - ? |
-| (in the future) Frequent-ish updates - ? | Frequent updates - ? |
+| Batch Processing - NO | Batch Processing - YES |
+| Automatically inputs answers - NO | Automatically inputs answers - YES |
+| Scheduled Running - NO | Scheduled Running - YES |
+| User Interface - NO | User Interface - YES |
+| (in the future) Error handling - MAYBE | Error handling on release - YES |
+| (in the future) Frequent-ish updates - MAYBE | Frequent updates - YES |
 
 *Obviously, as previously mentioned the paid version has not yet been developed. The README will be updated on release.*
 ## Output File
