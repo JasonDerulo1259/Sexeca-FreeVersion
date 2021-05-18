@@ -79,12 +79,6 @@ Sexeca - by JasonDerulo1259
 ##### WW - Wrong Word
 ##### LT - List Task
 
-  lines.Add("MC - Multi-Choice");
-            lines.Add("WF - Word Fill");
-            lines.Add("ID - Image / Description");
-            lines.Add("WW - Wrong Word");
-            lines.Add("LT - List Task");
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
