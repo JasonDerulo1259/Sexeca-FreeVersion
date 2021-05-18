@@ -75,9 +75,16 @@ Sexeca - by JasonDerulo1259
 ##### Abbreviations:
 ##### MC - Multiple Choice
 ##### WF - Word Fill
-##### ID - Image Description (formatting is a bit gross but you can figure it out)
-##### WW - Wrong Word (for this, see where the "WW starts with" ends and the wrong word will be there)
-##### LT - List (there will be an arrow that points to the correct word)
+##### ID - Image / Description
+##### WW - Wrong Word
+##### LT - List Task
+
+  lines.Add("MC - Multi-Choice");
+            lines.Add("WF - Word Fill");
+            lines.Add("ID - Image / Description");
+            lines.Add("WW - Wrong Word");
+            lines.Add("LT - List Task");
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
