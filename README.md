@@ -1,3 +1,5 @@
+# Disclaimer:
+***This Program has been abandoned and whilst I may come back to it later, do not expect it to be up to date with any changes in seneca.***
 
 # Sexeca
 ![Sexeca Banner](https://i.imgur.com/jBlQd4A.png)
@@ -67,11 +69,6 @@ Alright, so as of right now - the first release - the paid version has not yet b
 ## Output File
 The formatting in the text file is displayed at the top of the document, But just incase here it is:
 
- Sexeca - by JasonDerulo1259
- 
-
-Sexeca - by JasonDerulo1259
- 
 ##### Abbreviations:
 ##### MC - Multiple Choice
 ##### WF - Word Fill
